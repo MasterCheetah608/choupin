@@ -1,5 +1,6 @@
 # Choupin Music Bot
 Hack United 2023: Team Chouvengers
+
 ![ChoupinLogoSmall](https://github.com/MasterCheetah608/choupin/assets/83442445/ffca7ad7-14e3-45e5-a825-c912b4fcc5c7)
 
 (The name Choupin comes from our wonderful teacher Dr. Chou and the amazing composer Chopin)
