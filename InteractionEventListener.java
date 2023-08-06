@@ -109,11 +109,4 @@ public class InteractionEventListener extends ListenerAdapter {
             event.reply("This is an image of a piano keyboard from the Music and Theory website: https://www.musicandtheory.com/wp-content/uploads/2022/01/piano-full-keyboard-SPN-768x113.jpgit. The Zeroth Octave only has the A, A#, and B keys, while the Eighth Octave only has the C key. The rest of the octaves have all of the keys.").queue();
         }
     }
-
-    /* @Override
-    public void onSlashCommandInteraction(SlashCommandInteractionEvent event) {
-        super.onSlashCommandInteraction(event);
-        System.out.println("Interaction!");
-        System.out.println(event.getName());
-    }*/
 }
