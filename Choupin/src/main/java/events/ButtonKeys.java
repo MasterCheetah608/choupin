@@ -22,7 +22,7 @@ public class ButtonKeys extends ListenerAdapter {
     public void onSlashCommandInteraction(SlashCommandInteractionEvent event) {
         super.onSlashCommandInteraction(event);
         if (event.getName().equals("play")) {
-            event.reply("Click the letter buttons to play notes and use drop-down menu to SELECT OCTAVE. Click on red buttons for full songs. type /help for tutorial")
+            event.reply("Click the letter buttons to play notes. Type /help for tutorial")
                     .addActionRow(
                             Button.primary("C", "C"),
                             Button.success("C#", "C#/Db"),
