@@ -14,12 +14,9 @@ public class DiscordBot {
         JDABuilder jdaBuilder = JDABuilder.createDefault(TOKEN);
         JDA jda = jdaBuilder
                 .enableIntents(GatewayIntent.MESSAGE_CONTENT, GatewayIntent.GUILD_MESSAGES)
-                .addEventListeners(new ReadyEventListener(), new MessageEventListener(), new InteractionEventListener(), new ButtonKeys())
+                .addEventListeners(new InteractionEventListener(), new ButtonKeys())
                 .build();
-        jda.upsertCommand("slash-cmd","This is a slash command").setGuildOnly(true).queue();
-        jda.upsertCommand("flash-cards","lists all flash cards").setGuildOnly(true).queue();
-        jda.upsertCommand("quiz","Gives you a random quiz and questions").setGuildOnly(false).queue();
-
+    
        jda.upsertCommand("play","allows for more user input in virtual piano").setGuildOnly(true).queue();
        jda.upsertCommand("help","tutorial for using piano bot").setGuildOnly(true).queue();
     }
