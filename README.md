@@ -16,7 +16,7 @@ We want to use music therapy to offer great help to those with cognitive difficu
 We got our inspiration from piano apps that allow you to press notes. We didn’t know of any Discord bot with this feature, so we decided to make a Discord bot.
 # Project Process
 - Made Discord Bot
-  - Used Discord API and JDA API, Hosted with IntelliJ, and used Maven as the build automation tool
+  - Used Discord API and JDA API, Hosted with IntelliJ, used Maven as the build automation tool, and used LavaPlayer for audio
 - Coded User Input
    - Used slash commands that allow the user to press buttons for note input and utilize dropdowns for octaves
 - Added song play
@@ -33,7 +33,6 @@ We got our inspiration from piano apps that allow you to press notes. We didn’
 - Faced lots of bugs
   - We worked through it!
 - Audio issues
-  - The default audio play had bad quality — so we had to record our own and figure that out!
 # Our plans for the future
 We plan to create more applications with music, music therapy, and coding in the future! We want to make a tuner application in the future.
 # Credits
