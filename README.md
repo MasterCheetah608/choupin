@@ -16,7 +16,7 @@ We used Discord API to host our Discord bot and use slash commands with buttons 
 Note Input
 # Challenges we faced
 # Our plans for the future
-In the future, we plan to do more things with music, music therapy, and coding!
+In the future, we plan to continue spreading a message of positivity and kindness, all the while enjoying our hobbies and hopefully interesting more people in computer science.
 # Credits
 Sherri: Captain of the team
 Sarah: Presenter
