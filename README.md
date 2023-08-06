@@ -38,11 +38,14 @@ We got our inspiration from piano apps that allow you to press notes. We didn’
 We plan to create more applications with music, music therapy, and coding in the future! We want to make a tuner application in the future.
 # Credits
 - Sherri Hung: Captain
-  - Led the team, helped out with code, and helped out with presentation creation
+  - Led the team
+  - Help with the Coding
+  - Helped out with presentation creation
   - Helped us stay on track
 - Sarah Lin: Presenter
-  - Made the presentation, demo video, and helped out with some code
-- Jessica Hsu: Main Coder
+  - Made the presentation, demo video
+  - Helped out with some code
+- Jessica: Main Coder
   - Worked endlessly to make the buttons work
 - Helen Peng: Main Coder
   - Worked endlessly to make the audio player work
