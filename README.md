@@ -45,7 +45,7 @@ We plan to create more applications with music, music therapy, and coding in the
 - Sarah Lin: Presenter
   - Made the presentation, demo video
   - Helped out with some code
-- Jessica: Main Coder
+- Jessica Hsu: Main Coder
   - Worked endlessly to make the buttons work
 - Helen Peng: Main Coder
   - Worked endlessly to make the audio player work
