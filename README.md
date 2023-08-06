@@ -37,7 +37,12 @@ We got our inspiration from piano apps that allow you to press notes. We didn’
 # Our plans for the future
 We plan to create more applications with music, music therapy, and coding in the future! We want to make a tuner application in the future.
 # Credits
-Sherri Hung: Captain
-Sarah Lin: Presenter
-Jessica: Coder
-Helen Peng: Coder
+- Sherri Hung: Captain
+  - Led the team, helped out with code, and helped out with presentation creation
+  - Helped us stay on track
+- Sarah Lin: Presenter
+  - Made the presentation, demo video, and helped out with some code
+- Jessica: Main Coder
+  - Worked endlessly to make the buttons work
+- Helen Peng: Main Coder
+  - Worked endlessly to make the audio player work
